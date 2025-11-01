@@ -1,4 +1,4 @@
-## Hi, my name is Tessa.
+## Hey, my name is Tessa.
 
 I’m a software engineer specializing in computer graphics programming and fullstack web development. With expertise spanning from C++ rendering engines to modern TypeScript web applications, I enjoy tackling performance-critical challenges across the entire technology stack.
 
